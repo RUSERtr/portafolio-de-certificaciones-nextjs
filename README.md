@@ -20,7 +20,7 @@ La aplicación fue construida con **Next.js** y está optimizada para ser rápid
 
 Una muestra de la interfaz del portafolio:
 
-**![Captura de pantalla del Portafolio de Certificaciones de Sergio Troncoso](recursos/ProjectCAP.jpg)** 👈 **Ruta de la imagen ajustada**
+**![Captura de pantalla del Portafolio de Certificaciones de Sergio Troncoso](recursos/ProjectCAP.png)** 👈 **Ruta de la imagen ajustada**
 
 ---
 
