@@ -4,8 +4,6 @@
 
 Este es mi portafolio de certificaciones personal. Está diseñado para mostrar de manera clara y profesional mis logros y conocimientos adquiridos en el área de **Desarrollo de Software**, incluyendo cursos, bootcamps y certificaciones técnicas.
 
-La aplicación fue construida con **Next.js** y está optimizada para ser rápida y fácil de navegar, sirviendo como una prueba de mis habilidades con tecnologías modernas de frontend.
-
 ---
 
 ## 🚀 Tecnologías Principales
